@@ -10,7 +10,7 @@
 
 ---
 
-### 🍜 Sobre mí
+### <img src="https://media.tenor.com/NjXUcFTS_EkAAAAi/madeline-celeste.gif" width="30" /> Sobre mí
 
 ```yaml
 nombre: ronsito
@@ -33,11 +33,11 @@ frase: "El código no se escribe solo, pero con música de anime de fondo se sie
 
 ---
 
-### 🌸 Anime corner (Clevatess)
+### 🌸 Anime
  
 <p align="center">
-  <img src="PEGA_ACA_TU_GIF_1.gif" width="250" alt="Clevatess" />
-  <img src="PEGA_ACA_TU_GIF_2.gif" width="250" alt="Clevatess" />
+  <img src="https://media1.tenor.com/m/0dv5iTSOOuUAAAAC/alicia-clevatess.gif" width="350" alt="Clevatess" />
+  <img src="https://media1.tenor.com/m/64sq9HKE84kAAAAd/clevatess-ii.gif" width="350" alt="Clevatess" />
 </p>
 > "No importa cuántas veces caiga, siempre volveré a levantarme" — así me siento debuggeando a las 3am.
 
