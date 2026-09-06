@@ -45,7 +45,7 @@ frase: El código no se escribe solo, pero con música de anime de fondo se sien
   <img src="https://media1.tenor.com/m/m-K0BWjfci4AAAAd/clevatess-ii-%E8%99%9B%E5%81%87%E7%9A%84%E5%8B%87%E8%80%85%E5%82%B3%E6%89%BF.gif" width="350" alt="Clevatess" />
 </p>
 
-> "No importa cuántas veces caiga, siempre volveré a levantarme" — así me siento debuggeando a las 3am.
+> xd
 
 ---
 
@@ -59,4 +59,7 @@ frase: El código no se escribe solo, pero con música de anime de fondo se sien
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ruco02&color=f72585&style=flat-square&label=Visitas+al+perfil" />
+</p>
+<p align="center">
+  <img src="https://media.tenor.com/cgTzprRuLSUAAAAi/poof-celeste.gif" width="50" alt="Clevatess" />
 </p>
