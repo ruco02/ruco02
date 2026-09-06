@@ -33,11 +33,13 @@ frase: "El código no se escribe solo, pero con música de anime de fondo se sie
 
 ---
 
-### 🌸 Anime corner
-
+### 🌸 Anime corner (Clevatess)
+ 
 <p align="center">
-  <img src="https://readme-samurai.vercel.app/api/random" width="400" alt="anime random"/>
+  <img src="PEGA_ACA_TU_GIF_1.gif" width="250" alt="Clevatess" />
+  <img src="PEGA_ACA_TU_GIF_2.gif" width="250" alt="Clevatess" />
 </p>
+> "No importa cuántas veces caiga, siempre volveré a levantarme" — así me siento debuggeando a las 3am.
 
 > "No importa cuántas veces caiga, siempre volveré a levantarme" — así me siento debuggeando a las 3am.
 
