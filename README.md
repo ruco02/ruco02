@@ -2,10 +2,13 @@
   ⚔️ こんにちは, soy ronsito 👾
 </h1>
 
-<h3 align="center">Otaku dev en modo grind — mitad programador, mitad senpai de anime 🍥</h3>
+<h3 align="center">Otaku — mitad programador, mitad senpai de anime 🍥</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F72585&center=true&vCenter=true&width=600&lines=Viendo+anime+mientras+compilo..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F72585&center=true&vCenter=true&width=600&lines=Viendo+anime" alt="Typing SVG" />
+</p>
+<p align="center">
+ <img src="https://media.tenor.com/zUz7YdOQzoUAAAAi/celeste.gif" width="250" align="center"/>
 </p>
 
 ---
@@ -19,9 +22,8 @@ ocupacion_diaria:
   - ver anime hasta tarde 🌙 🎮 🐍
   - y tambien programar un poco(apenas)
 anime_favorito: "clevatess"
-frase: "El código no se escribe solo, pero con música de anime de fondo se siente más fácil"
+frase: El código no se escribe solo, pero con música de anime de fondo se siente más fácil
 ```
-
 ---
 
 ### 🎌 Lo que estoy haciendo ahora
@@ -33,12 +35,13 @@ frase: "El código no se escribe solo, pero con música de anime de fondo se sie
 
 ---
 
-### 🌸 Anime
+### 🌸 Panel Anime(clevatess)
  
 <p align="center">
   <img src="https://media1.tenor.com/m/0dv5iTSOOuUAAAAC/alicia-clevatess.gif" width="350" alt="Clevatess" />
   <img src="https://media1.tenor.com/m/64sq9HKE84kAAAAd/clevatess-ii.gif" width="350" alt="Clevatess" />
 </p>
+
 > "No importa cuántas veces caiga, siempre volveré a levantarme" — así me siento debuggeando a las 3am.
 
 ---
@@ -46,11 +49,11 @@ frase: "El código no se escribe solo, pero con música de anime de fondo se sie
 ### 📫 Conectemos
 
 <p align="center">
-  <a href="https://github.com/tu-usuario">
+  <a href="https://github.com/ruco02">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tu-usuario&color=f72585&style=flat-square&label=Visitas+al+perfil" />
+  <img src="https://komarev.com/ghpvc/?username=ruco02&color=f72585&style=flat-square&label=Visitas+al+perfil" />
 </p>
