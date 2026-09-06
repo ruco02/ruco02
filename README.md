@@ -8,7 +8,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F72585&center=true&vCenter=true&width=600&lines=Viendo+anime" alt="Typing SVG" />
 </p>
 <p align="center">
- <img src="https://media.tenor.com/zUz7YdOQzoUAAAAi/celeste.gif" width="250" align="center"/>
+ <img src="https://media.tenor.com/zUz7YdOQzoUAAAAi/celeste.gif" width="200" align="center"/>
 </p>
 
 ---
