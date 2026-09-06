@@ -41,8 +41,6 @@ frase: "El código no se escribe solo, pero con música de anime de fondo se sie
 </p>
 > "No importa cuántas veces caiga, siempre volveré a levantarme" — así me siento debuggeando a las 3am.
 
-> "No importa cuántas veces caiga, siempre volveré a levantarme" — así me siento debuggeando a las 3am.
-
 ---
 
 ### 📫 Conectemos
