@@ -16,7 +16,7 @@
 ### <img src="https://media.tenor.com/NjXUcFTS_EkAAAAi/madeline-celeste.gif" width="30" /> Sobre mí
 
 ```yaml
-nombre: ronsito
+nombre: Ruco
 clase: Programador novato(demasiado)
 ocupacion_diaria:
   - ver anime hasta tarde 🌙 🎮 🐍
