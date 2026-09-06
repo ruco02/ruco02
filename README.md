@@ -10,8 +10,9 @@
 <p align="center">
  <img src="https://media.tenor.com/zUz7YdOQzoUAAAAi/celeste.gif" width="200" />
 </p>
+
 <p align="center">
-  <img src="https://media.tenor.com/C9Dy-V7KTMMAAAAi/line.gif" width="1300" />
+  <img src="https://media.tenor.com/2S52nmjvtpQAAAAi/banner.gif" width="1300" />
 </p>
 
 ### <img src="https://media.tenor.com/NjXUcFTS_EkAAAAi/madeline-celeste.gif" width="30" /> Sobre mí
@@ -25,7 +26,9 @@ ocupacion_diaria:
 anime_favorito: "clevatess"
 frase: El código no se escribe solo, pero con música de anime de fondo se siente más fácil
 ```
----
+<p align="center">
+  <img src="https://media.tenor.com/C9Dy-V7KTMMAAAAi/line.gif" width="1300" />
+</p>
 
 ### 🎌 Lo que estoy haciendo ahora
 
@@ -34,7 +37,9 @@ frase: El código no se escribe solo, pero con música de anime de fondo se sien
 - 🎮 Jugando... básicamente todo el día
 - 💻 Programando un poquito entre medio de todo eso
 
----
+<p align="center">
+  <img src="https://media.tenor.com/C9Dy-V7KTMMAAAAi/line.gif" width="1300" />
+</p>
 
 ### 🌸 Panel Anime(clevatess)
  
@@ -48,7 +53,9 @@ frase: El código no se escribe solo, pero con música de anime de fondo se sien
 
 > xd
 
----
+<p align="center">
+  <img src="https://media.tenor.com/C9Dy-V7KTMMAAAAi/line.gif" width="1300" />
+</p>
 
 ### 📫 Conectemos
 
